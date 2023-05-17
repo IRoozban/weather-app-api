@@ -9,3 +9,15 @@ preview =>
 ❌warning for iranian users :
 this api might have some problem for iran ip so that might be better to use vpn.
 thanks everyone ;)
+
+
+
+_______________________________________
+
+# 💫 About Me:
+
+I'm front-end developer.<br>I'm 17<br>and I'm learning React by now.
+
+# 💻 Tech Stack:
+
+![React](https://img.shields.io/badge/react-%2320232
